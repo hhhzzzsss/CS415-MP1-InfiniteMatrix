@@ -4,7 +4,7 @@
 ---
 
 BGM: The World Is Made In An Adorable Way (Touhou UDoALG) 8bit LSDj Remix
-- Album: Perfect Red (https://zahranworrell.bandcamp.com/al...)
+- Album: Perfect Red (https://zahranworrell.bandcamp.com/album/perfect-red)
 - Origin: 東方獣王園　〜 Unfinished Dream of All Living Ghost
 - Original Title: 世界は可愛く出来ている
 - Composition: ZUN
